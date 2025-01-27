@@ -1,0 +1,10 @@
+# enviroment
+.venv
+.env
+env
+
+# pptx
+*.pptx
+
+# pycache
+**/__pycache__/
