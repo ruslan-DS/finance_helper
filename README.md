@@ -64,7 +64,7 @@ README.md                                  # Документация
 
 <table>
   <tr>
-    <th colspan="2">Retrieval (ACC)|</th>
+    <th colspan="2">Retrieval (ACC)</th>
     <th colspan="2">Generation (LLM-as-a-Judge)</th>
   </tr>
   <tr>
