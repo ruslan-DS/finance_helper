@@ -112,6 +112,23 @@ DEEPSEEK_API_KEY=ваш_api_ключ
 GIGACHAT_API_KEY=ваш_api_ключ
 ```
 
+# Запуск сервиса:
+
+1. Перейдите в папку проекта:
+```
+cd finance_helper/project
+```
+
+2. Запустите streamlit-сервер:
+```
+streamlit run front.py
+```
+
+3. Откройте браузер и перейдите по адресу:
+```
+http://localhost:8501
+```
+
 # Контакты:
 Автор: Волощенко Руслан     
 Email: ruslanvolo9@gmail.com   
